@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools**
 
-<code><img height="20" src="./images/html.png"></code><code><img height="20" src="./images/css.png"></code><code><img height="20" src="./images/vue.png"></code><code><img height="20" src="./images/react.png"></code>  <code><img height="20" src="./images/node.png"/></code><code><img height="20" src="./images/js.png"/></code><code><img height="20" src="./images/ts.png"/></code>
+<code><img height="20" src="./images/html.png"/></code><code><img height="20" src="./images/css.png"/></code><code><img height="20" src="./images/vue.png"/></code><code><img height="20" src="./images/react.png"/></code>  <code><img height="20" src="./images/node.png"/></code><code><img height="20" src="./images/js.png"/></code><code><img height="20" src="./images/ts.png"/></code>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GouYuQing&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouYuQing&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
